@@ -1,1 +1,1 @@
-Git basics, make your own brach and push via vscode
+Git basics, make your own brach and push via vscode.
